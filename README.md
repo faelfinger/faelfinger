@@ -1,12 +1,4 @@
-<!--
-**FaaaaeeeeL/FaaaaeeeeL** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-
-- 🌱 Um dia serei o Hokage DEV...
-- ⚡ Fun fact: HAHA ...
--->
 # **Learning (Languages, Tools, And Platforms)**
  <!-- # Learning (Languages, Tools, And Platforms) -->
 <div style="display: inline_block"><br> 
@@ -43,7 +35,7 @@ Here are some ideas to get you started:
 <a href='https://www.reddit.com/user/GoticoAgricola' target="_blank"><img alt='Reddit' src='https://img.shields.io/badge/Reddit-100000?style=for-the-badge&logo=Reddit&logoColor=white&labelColor=black&color=black'/></a>
 <a href='https://stackoverflow.com/users/21625832/gotico-agricola' target="_blank"><img alt='StackOverflow' src='https://img.shields.io/badge/StackOverflow-100000?style=for-the-badge&logo=StackOverflow&logoColor=white&labelColor=black&color=black'/></a>
    
-   ##
+
    <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Fael96&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
