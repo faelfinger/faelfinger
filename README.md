@@ -7,8 +7,9 @@ Here are some ideas to get you started:
 - 🌱 Um dia serei o Hokage DEV...
 - ⚡ Fun fact: HAHA ...
 -->
-  Learning (Languages, Tools, And Platforms)
-<div style="display: inline_block"><br>
+ **Learning (Languages, Tools, And Platforms)**
+ <!-- # Learning (Languages, Tools, And Platforms) -->
+<div style="display: inline_block"><br> 
 <img align="center" alt="FaeL-Lua" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
 <img align="center" alt="FaeL-C" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
 <img align="center" alt="FaeL-Py" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
@@ -22,18 +23,11 @@ Here are some ideas to get you started:
 <img align="center" alt="FaeL-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="FaeL-AdobeIllustrator" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="center" alt="FaeL-AdobePhotoshop" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="center" alt="FaeL-Gimp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />
- 
-
-          
+<img align="center" alt="FaeL-Gimp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />         
 
 </div>
             
-
-          
-
-  
-  ##
+ ##
   
   <div style="display: inline_block"><br>
   <img align="center" alt="FaeL-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
@@ -41,7 +35,6 @@ Here are some ideas to get you started:
   
  ##
 
- 
  <div> 
 
 <a href='https://twitter.com/GoticoAgricola' target="_blank"><img alt='Twitter' src='https://img.shields.io/badge/Twitter-100000?style=for-the-badge&logo=Twitter&logoColor=FFFFFF&labelColor=050505&color=black'/></a>
