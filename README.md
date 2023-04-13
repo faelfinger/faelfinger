@@ -19,13 +19,15 @@
 
 </div>
             
- ##
-  
+##
+ <!-- # **SO** -->
   <div style="display: inline_block"><br>
   <img align="center" alt="FaeL-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
   <img align="center" alt="FaeL-Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
   
  ##
+
+
 
  <div> 
 
