@@ -38,7 +38,7 @@
 <a href='https://stackoverflow.com/users/21625832/gotico-agricola' target="_blank"><img alt='StackOverflow' src='https://img.shields.io/badge/StackOverflow-100000?style=for-the-badge&logo=StackOverflow&logoColor=white&labelColor=black&color=black'/></a>
    
 
-   <div>
+<!--   <div>
   
   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=Fael96&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
      
