@@ -1,4 +1,4 @@
-**Aprendendo (Linguagens, Ferramentas e Plataformas)** <!--'#' deixa a letra maior, '*' deixa em negrito-->
+**🎨Aprendendo (Linguagens, Ferramentas e Plataformas)** <!--'#' deixa a letra maior, '*' deixa em negrito-->
 
 <div style="display: inline_block"><br> 
 <img align="center" alt="FaeL-Lua" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
