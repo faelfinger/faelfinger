@@ -17,7 +17,8 @@
 <img align="center" alt="FaeL-Git" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
 <img align="center" alt="FaeL-AdobeIllustrator" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" />
 <img align="center" alt="FaeL-AdobePhotoshop" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
-<img align="center" alt="FaeL-Gimp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />         
+<img align="center" alt="FaeL-Gimp" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gimp/gimp-original.svg" />   
+<!-- <img align="center" alt="FaeL-inkscape" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/inkscape/inkscape-original.svg" />   -->
 
 </div>
             
