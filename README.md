@@ -1,6 +1,6 @@
 
-     • Estou ficando louco.       
-##
+• Estou ficando louco.       
+
  <!-- # **SO** -->
   <div style="display: inline_block"><br>
   <img align="center" alt="FaeL-Linux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg">
