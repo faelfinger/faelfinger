@@ -1,6 +1,4 @@
 
-• Estou ficando louco.       
-
 ##
 
 <div> 
