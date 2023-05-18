@@ -1,5 +1,5 @@
 
-**Aprendendo ( Linguagens, Ferramentas, Plataformas e SO )** 
+<!--**Aprendendo ( Linguagens, Ferramentas, Plataformas e SO )** 
 
 <div style="display: inline_block"><br> 
 <img align="center" alt="FaeL-Lua" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-plain-wordmark.svg">
@@ -20,7 +20,7 @@
 <img align="center" alt="FaeL-Android" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 <img align="center" alt="FaeL-Windows" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg">
 <div> 
-  
+  -->
 ##
 
 <div> 
